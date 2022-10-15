@@ -1,6 +1,6 @@
 # api-sales-controll
 
-API Rest utilzando Spring de cadastro (Create/Read/Update/Delete/List) de produtos e pedidos.
+API Rest utilizando Spring para o cadastro (Create/Read/Update/Delete/List) de produtos e pedidos.
 
 ### Tecnologias utilizadas:
 
@@ -24,7 +24,7 @@ API Rest utilzando Spring de cadastro (Create/Read/Update/Delete/List) de produt
 
 ### Como utilizar
 
-Importe o projeto, e configure o acesso ao banco de dados disponível no arquivo `application.properties`
+Importe o projeto e configure o acesso ao banco de dados disponível no arquivo `application.properties` alterando o local do banco, o acesso a ele através da senha fornecida.
 
     sales-controll\src\main\resources\application.properties
 
